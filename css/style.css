@@ -1043,7 +1043,7 @@ FOOTER SECTION
 }
 
 .footer-widget.footer-logo {
-    padding: 40px 0 40px 50px;
+    padding: 40px 0 40px 0px;
     position: relative;
 }
 .footer-widget.footer-logo::after {
